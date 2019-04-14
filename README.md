@@ -1,4 +1,4 @@
-![inspira image](https://www.dropbox.com/home?preview=1024x1024.png)
+![inspira image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_DbKcc8oUuCmbED7iuCSAQABq5G1zIdCFonQrSbJArf9H67n)
 # Random Quote
 The Random Quote Machine will be a single page app. Showing the quote in a block. The user stories are as follows:
 
