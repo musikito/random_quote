@@ -9,6 +9,7 @@ The Random Quote Machine will be a single page app. Showing the quote in a block
 
 * Bootstrap
 * Jquery ajax
+* [Fav Quotes](https://favqs.com/)
 * [Awesome fonts](https://fontawesome.com/v4.7.0/icons/)
 * [Bootstrap](https://getbootstrap.com/)
 ![Bootstrap](http://getbootstrap.com/docs/4.3/assets/brand/bootstrap-social.png)
